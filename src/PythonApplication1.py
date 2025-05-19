@@ -1,10 +1,7 @@
 import redis
 
-myHostname = "azmanaged-redis.westus3.redis.azure.net:10000"
-myPassword = "OGgzh0iRb17R6qjrXFdKOJmVeAZhf6p39AzCaC9ksSg="
-
-# myHostname = "<Your Host Name>"
-# myPassword = "<Your Access Key>"
+myHostname = "<Your Host Name>"
+myPassword = "<Your Access Key>"
 
 # r = redis.StrictRedis(host=myHostname, port=6380,
 #                       password=myPassword, ssl=True)
